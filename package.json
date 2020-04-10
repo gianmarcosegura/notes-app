@@ -1,0 +1,27 @@
+{
+  "name": "notes-app",
+  "version": "0.0.1",
+  "description": "app de notas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianmarcosegura/notes-app.git"
+  },
+  "keywords": [
+    "node",
+    "notes"
+  ],
+  "author": "Gianmarco Segura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gianmarcosegura/notes-app/issues"
+  },
+  "homepage": "https://github.com/gianmarcosegura/notes-app#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "validator": "^13.0.0"
+  }
+}
